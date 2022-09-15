@@ -1,0 +1,10 @@
+#xaxis{
+    font-size: 50px;
+    color: black;
+}
+
+#yaxis{
+    font-size: 30px;
+    color: black;
+    opacity: 1;
+}

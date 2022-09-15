@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "\"git.enabled\"": "\"C:\\Users\\benfo\\git.exe\""
+    },
+    "intelephense.environment.documentRoot": "",
+    "intelephense.environment.includePaths": [
+        "\"C:\\Users\\benfo\\Downloads\\Git-2.36.1-64-bit.exe\""
+    ],
+    "terminal.integrated.env.osx": {
+        "PATH": ""
+    },
+}

@@ -1,0 +1,59 @@
+#predContainer{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+#predTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+#pred{
+    background-color: black;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
+}
+
+#predbox{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+#predtext{
+    font-size: 150px;
+}
+
+#certainty{
+    position: absolute;
+    font-size: 15px;
+    bottom: 0;
+    right: 0;
+}   
+
+.recharts-wrapper{
+    width: 400px;
+    height: 350px;
+}
+
+
+.recharts-surface{
+    width: 400px;
+    height: 350px;
+}
+

@@ -1,0 +1,11 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: white;
+}
+
+#exp{
+  background-color: black;
+  position: relative;
+  width: 100%;
+}
